@@ -1,3 +1,76 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "book1",
+      "description": "Abstract painting with blue and gold",
+      "imageUrl": "https://images.unsplash.com/photo-1622542796254-5b9c46ab0d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWJzdHJhY3QlMjBwYWludGluZ3xlbnwwfHx8fDE3NjYzODMzNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract painting"
+    },
+    {
+      "id": "book2",
+      "description": "A lone tree in a misty field",
+      "imageUrl": "https://images.unsplash.com/photo-1594854095538-9e6ba14a0eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtaXN0eSUyMGZpZWxkfGVufDB8fHx8MTc2NjQzNzQwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "misty field"
+    },
+    {
+      "id": "book3",
+      "description": "Close-up of a vintage typewriter",
+      "imageUrl": "https://images.unsplash.com/photo-1530819568329-97653eafbbfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2aW50YWdlJTIwdHlwZXdyaXRlcnxlbnwwfHx8fDE3NjY0MzczOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage typewriter"
+    },
+    {
+      "id": "book4",
+      "description": "A winding road through a forest",
+      "imageUrl": "https://images.unsplash.com/photo-1474767821094-a8fe9d8c8fdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmb3Jlc3QlMjByb2FkfGVufDB8fHx8MTc2NjQzNzM5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest road"
+    },
+    {
+      "id": "book5",
+      "description": "A cup of coffee on a wooden table",
+      "imageUrl": "https://images.unsplash.com/photo-1619911013257-8f1fbc919fc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb2ZmZWUlMjB0YWJsZXxlbnwwfHx8fDE3NjYzNzkzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee table"
+    },
+    {
+      "id": "book6",
+      "description": "Steampunk gears and cogs",
+      "imageUrl": "https://images.unsplash.com/photo-1596791488417-b2e1af8e7116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdGVhbXB1bmslMjBnZWFyc3xlbnwwfHx8fDE3NjY0MzczOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "steampunk gears"
+    },
+    {
+      "id": "book7",
+      "description": "A futuristic city skyline at night",
+      "imageUrl": "https://images.unsplash.com/photo-1675326570919-946d728e9a25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmdXR1cmlzdGljJTIwY2l0eXxlbnwwfHx8fDE3NjYzNzM2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "book8",
+      "description": "A quiet library with shelves of books",
+      "imageUrl": "https://images.unsplash.com/photo-1741708011297-a364acd23638?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsaWJyYXJ5JTIwc2hlbHZlc3xlbnwwfHx8fDE3NjY0MzczOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "library shelves"
+    },
+    {
+      "id": "book9",
+      "description": "An old compass on a map",
+      "imageUrl": "https://images.unsplash.com/photo-1519992599773-1e1d4029929d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb21wYXNzJTIwbWFwfGVufDB8fHx8MTc2NjM2MTU3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "compass map"
+    },
+    {
+      "id": "book10",
+      "description": "A dragon flying over a castle",
+      "imageUrl": "https://images.unsplash.com/photo-1650915408748-68e19362e9e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkcmFnb24lMjBjYXN0bGV8ZW58MHx8fHwxNzY2Mzc2NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dragon castle"
+    },
+    {
+      "id": "book11",
+      "description": "Silhouette of a person on a mountain top",
+      "imageUrl": "https://images.unsplash.com/photo-1590142035743-0ffa020065e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMHNpbGhvdWV0dGV8ZW58MHx8fHwxNzY2NDM3Mzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain silhouette"
+    },
+    {
+      "id": "book12",
+      "description": "A magnifying glass over a book",
+      "imageUrl": "https://images.unsplash.com/photo-1571878385238-2d89b27962b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYWduaWZ5aW5nJTIwZ2xhc3N8ZW58MHx8fHwxNzY2NDM3Mzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "magnifying glass"
+    }
+  ]
 }
