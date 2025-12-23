@@ -9,26 +9,17 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { LogIn } from "lucide-react";
+import Link from "next/link";
 
 export function AuthButton() {
   const { login } = useUser();
 
   return (
-    <DropdownMenu>
-      <DropdownMenuTrigger asChild>
-        <Button variant="outline">
-          <LogIn className="mr-2" />
-          Login
-        </Button>
-      </DropdownMenuTrigger>
-      <DropdownMenuContent align="end">
-        <DropdownMenuItem onClick={() => login("standard")}>
-          Sign in as Standard User
-        </DropdownMenuItem>
-        <DropdownMenuItem onClick={() => login("admin")}>
-          Sign in as Admin
-        </DropdownMenuItem>
-      </DropdownMenuContent>
-    </DropdownMenu>
+    <Button asChild>
+      <Link href="/login">
+        <LogIn className="mr-2" />
+        Login
+      </Link>
+    </Button>
   );
 }
